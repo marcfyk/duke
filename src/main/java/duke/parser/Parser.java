@@ -1,13 +1,12 @@
 package duke.parser;
 
-//import duke.command.Command;
-//import duke.command.AddCommand;
-//import duke.command.DeleteCommand;
-//import duke.command.DoCommand;
-//import duke.command.ExitCommand;
-//import duke.command.FindCommand;
-//import duke.command.ListCommand;
-import duke.command.*;
+import duke.command.Command;
+import duke.command.AddCommand;
+import duke.command.DeleteCommand;
+import duke.command.DoCommand;
+import duke.command.ExitCommand;
+import duke.command.FindCommand;
+import duke.command.ListCommand;
 
 import duke.exception.DukeException;
 
